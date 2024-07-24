@@ -1,0 +1,40 @@
+1125 conteiner width
+prime-color EE4248
+
+height:
+hn 100 mb50
+s1 500 mb100
+s2 500 mb96
+s3 460 mb87
+f1 200
+f2 64
+
+logo 120x56 mr108
+hmenusvg 13x9 ml8
+hsvg 20x20 ml116 gap24
+x0y1b4 25%black
+
+box mt-mb75
+H1 545(X192) [the n *ing n red]
+p 520(x58) mt24 mb24
+img 560x380 mb-mt60
+btn2 p12_32 x1y2b4 15%
+
+
+f6f6f6
+h2 mb24 after o red
+box mt57 mb63 
+
+
+h2 mt20 mb17
+box 363x360 9b9b9b9 mb20
+svg 100x100 mt-ml24
+h3 mblock15 ml24
+btn1 p8_12 x1y1b2 25%
+b__1 mt15 ml24 mb4
+
+Roboto
+regular text fz18 line-height 150%
+medium h2 h3 text_after_first_h2 (h2fz32, h3fz28, fcontactfz24, pt...fz18)
+light footer1 fz18 (footer2 fz18)
+bold h1 fz48
